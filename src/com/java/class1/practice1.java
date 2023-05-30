@@ -7,5 +7,9 @@ public class practice1 {
         System.out.println(a+b);
         System.out.println("Hello World!");
         System.out.println("Hello from git");
+
+        for (int i=1; i<=10; i++){
+            System.out.println(i);
+        }
     }
 }
